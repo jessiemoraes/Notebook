@@ -13,7 +13,7 @@ Medical student learning to code.
 **Links:**
 * [Blog]( )
 * [LinkedIn]( )
-* [Medium]( )
+* [Medium](https://medium.com/@jms.twix)
 
 
 ## Projetos:

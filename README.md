@@ -5,7 +5,7 @@
 </p>
 
 # Jessica Moraes
-<sub>*Third-year Medical Student* at Pontifícia Universidade Católica de São Paulo</sub>
+<sub>*Acadêmica do 3º ano de Medicina* na Pontifícia Universidade Católica de São Paulo</sub>
 
 Medical student learning to code.
 
